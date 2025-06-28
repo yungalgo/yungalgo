@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**yungalgo/yungalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-28T04:20:36.813Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xF72e075E2AdD0f59dc0691515F36aFf1C86B259C"
+    },
+    {
+      "chain": "solana",
+      "address": "73cY9tYnc3qPRvsLpuiE7WHQztRRr5pLg6oGAnvSzjCT"
+    }
+  ]
+}
+WALLET-LINKING-END -->
